@@ -10,3 +10,5 @@ print(f"Wynik dodawania {a} i {b} to:", dodawanie(a, b))
 
 def odejmowanie(a, b):
     return a - b
+
+print(10)
